@@ -1,0 +1,20 @@
+,File Name,RMSD,TM-Score,Cluster
+27,rank_105_rank_3.pdb,1.17,0.96438,0
+72,rank_113_rank_3.pdb,1.14,0.9663,0
+93,rank_117_rank_4.pdb,1.22,0.96205,0
+94,rank_117_rank_5.pdb,1.22,0.96234,0
+198,rank_136_rank_4.pdb,1.16,0.96437,0
+312,rank_157_rank_3.pdb,1.14,0.96576,0
+382,rank_16_rank_3.pdb,1.14,0.96605,0
+402,rank_173_rank_3.pdb,1.16,0.96481,0
+821,rank_68_rank_2.pdb,1.19,0.96339,0
+884,rank_79_rank_5.pdb,1.23,0.96097,0
+887,rank_7_rank_3.pdb,1.15,0.96627,0
+889,rank_7_rank_5.pdb,1.2,0.96328,0
+938,rank_89_rank_4.pdb,1.22,0.9614,0
+213,rank_139_rank_4.pdb,1.49,0.94415,1
+728,rank_50_rank_4.pdb,1.47,0.94568,1
+927,rank_87_rank_3.pdb,1.48,0.94566,1
+928,rank_87_rank_4.pdb,1.47,0.94637,1
+214,rank_139_rank_5.pdb,1.64,0.9264,3
+773,rank_59_rank_4.pdb,0.66,0.98853,4
